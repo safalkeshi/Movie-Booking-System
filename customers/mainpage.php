@@ -1,3 +1,6 @@
+<?php
+include "../links/links.php";
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -5,10 +8,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Booking system</title>
-    <?php include 'links.php'; ?>
+
 </head>
 
 <body>
+    <?php include 'navbar.php'; ?>
 
 </body>
 
