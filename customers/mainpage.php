@@ -13,7 +13,7 @@ include "../links/links.php";
 
 <body>
     <?php include 'navbar.php'; ?>
-
+    <?php include 'sidebar.php'; ?>
 </body>
 
 </html>
